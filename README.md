@@ -1,4 +1,5 @@
-# Introduction to Entrepreneurial Engineering Design (창업연계공학설계입문)
+# Introduction to Entrepreneurial Engineering Design 
+# (창업연계공학설계입문)
 
 코로나 대유행 이후 대부분의 엘리베이터 버튼 위에는 항균 구리 필름이 위치하게 되었습니다. 구리 필름은 특유의 빳빳한 재질을 갖고 있습니다. 뿐만 아니라 필름에 잦은 접촉이 있을 경우 쉽게 해지며 오돌토돌하게 일어납니다. 이러한 구리 필름의 특성 때문에 시각 장애인들은 엘리베이터 버튼의 점자를 읽는데 많은 어려움을 겪고 있습니다.
 
